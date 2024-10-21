@@ -9,7 +9,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: antiquewhite;
+    background-color: #bfc5cf;
 }
 
 
@@ -23,7 +23,7 @@ h1{
     width: 50%;
     height: 70vh;
     margin-left: 50px;
-    background-color: rgb(255, 255, 255);
+    background: linear-gradient(to top, #dfe9f3 0%, white 100%);
 }
 
 .slider-container{
